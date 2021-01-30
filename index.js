@@ -33,7 +33,7 @@ const timer = new CountdownTimer({
   targetDate: new Date("Feb 11, 2021"),
 });
 
-// timer.startTimer();
+timer.startTimer();
 // timer.stopTimer();
 
 function upgradeInterface(time) {
